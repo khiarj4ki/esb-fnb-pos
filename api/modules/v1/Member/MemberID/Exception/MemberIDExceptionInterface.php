@@ -1,0 +1,16 @@
+<?php
+
+namespace app\modules\v1\Member\MemberID\Exception;
+
+interface MemberIDExceptionInterface
+{
+    const ERROR_REQUEST_VALIDATION = 10000400;
+    const INTERNAL_ERROR = 10000999;
+    const SETTING_BRANCH_ID_NOTFOUND = 10000001;
+    const DTO_INVALID = 10000003;
+    const SETTING_STATIC_TOKEN_NOT_FOUND = 10000004;
+    const ERROR_INTERNAL_REQUEST_DTO = 10000005;
+    const DECLINE_SETTING_ADD_ONS_NOT_FOUND = 10000006;
+    const DECLINE_HTTP_SUBMIT_DOCUMENT = 10000007;
+    const SETTING_OMS_SERVICE = 10000008;
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "dev": {
+      "extensionId": "jcbfagnilnigbjnicmleoadiahbpilkj",
+      "url": null
+    }
+  },
+  {
+    "prod": {
+      "extensionId": "hjlknhokmbkhaaifmhakglldciallloh",
+      "url": "https://chromewebstore.google.com/detail/esb-window-positioner/hjlknhokmbkhaaifmhakglldciallloh"
+    }
+  }
+]

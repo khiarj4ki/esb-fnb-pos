@@ -1,0 +1,4 @@
+{
+  "httpBaseUrl": "http://localhost/esb-fnb-pos/api/web/v1",
+  "webSocketUrl": "ws://localhost:8081"
+}

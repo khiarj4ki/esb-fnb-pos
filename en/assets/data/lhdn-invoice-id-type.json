@@ -1,0 +1,14 @@
+[
+    {
+        "idType": "Passport"
+    },
+    {
+        "idType": "NRIC"
+    },
+    {
+        "idType": "BRN"
+    },
+    {
+        "idType": "Army"
+    }
+]

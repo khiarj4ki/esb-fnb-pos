@@ -1,0 +1,1 @@
+2019-01-10 15:36:26: imagepng(C:\Apache24\htdocs\dev-pos/assets_b/uploads/excel/test.png): failed to open stream: No such file or directory

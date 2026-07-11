@@ -1,0 +1,17 @@
+<?php
+
+namespace app\modules\v1\AddOns\AddOnsEInvoiceMalaysia\Exception;
+
+interface AddOnsMalaysiaExceptionInterface
+{
+    const ERROR_REQUEST_VALIDATION = 10000400;
+    const INTERNAL_ERROR = 10000999;
+    const SETTING_BRANCH_ID_NOTFOUND = 10000001;
+    const SALES_HEAD_NOT_FOUND = 10000002;
+    const SALES_PAYMENT_NOT_FOUND = 10000003;
+    const SALES_MENU_NOT_FOUND = 10000004;
+    const ERROR_INTERNAL_REQUEST_DTO = 10000005;
+    const DECLINE_SETTING_ADD_ONS_NOT_FOUND = 10000006;
+    const DECLINE_HTTP_SUBMIT_DOCUMENT = 10000007;
+    const SETTING_OMS_SERVICE = 10000008;
+}
